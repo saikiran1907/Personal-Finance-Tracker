@@ -14,7 +14,6 @@ View Summary (Total Income, Total Expenses, Balance)
 Category-wise Expense Pie Chart (Matplotlib)
 
 Export transactions to CSV file
-
 Simple and Responsive GUI
 
 
