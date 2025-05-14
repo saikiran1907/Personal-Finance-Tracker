@@ -8,11 +8,13 @@ View Summary (Total Income, Total Expenses, Balance)
 Category-wise Expense Pie Chart (Matplotlib)
 Export transactions to CSV file
 Simple and Responsive GUI
+
 🛠 Technologies Used
 Python 3.12
 Tkinter (GUI)
 Matplotlib (for Pie Charts)
 JSON (for data storage)
 CSV (for data export)
+
 Install required libraries:
 pip install matplotlib python main.py
