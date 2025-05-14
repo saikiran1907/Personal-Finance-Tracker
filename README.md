@@ -1,8 +1,8 @@
 Personal_Finance_tracker
-A simple Personal Finance Tracker application built with Python and Tkinter, allowing users to manage their income, expenses,and visualize spending by category with 
-pie charts.
 
-✨ Features
+A simple Personal Finance Tracker application built with Python and Tkinter, allowing users to manage their income, expenses,and visualize spending by category with pie charts.
+
+**✨ Features**
 
 User Registration and Login System
 
@@ -16,7 +16,7 @@ Export transactions to CSV file
 
 Simple and Responsive GUI
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 Python 3.12
 
@@ -28,6 +28,7 @@ JSON (for data storage)
 
 CSV (for data export)
 
-Install required libraries:
+
+**Install required libraries:**
 
 pip install matplotlib python main.py
